@@ -1,1 +1,1 @@
-First practice repository - FCC Crach-Course!
+First practice repository - FCC Crash-Course!
